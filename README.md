@@ -8,6 +8,7 @@ The General Manager of a large warehouse needs a program to manage the products 
 3. View extract loading / unloading. The function takes the product code as input and displays: the name of the product and the list of all product loading and unloading operations.
 
 4. Display list of products in reserve. View the list of all products in reserve (the quantity of which is less than the minimum stock) with an estimate of the expense to be faced to recharge the entire warehouse. To estimate spending:
-  a. calculate the expense to reload each product in reserve, multiplying the unit purchase price by the number of minimum
-  units to bring back the quantity of product in stock equal to 110% of the minimum stock.
-  b. add up all the amounts to top up each product in reserve.
+
+a. calculate the expense to reload each product in reserve, multiplying the unit purchase price by the number of minimum
+units to bring back the quantity of product in stock equal to 110% of the minimum stock.
+b. add up all the amounts to top up each product in reserve.
